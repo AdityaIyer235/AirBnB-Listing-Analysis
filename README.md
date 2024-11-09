@@ -81,6 +81,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the MIT License.
 
----
 
-Feel free to update specific paths, and add your GitHub repository link in the *Clone the Repository* section. Let me know if you'd like any adjustments or additional sections!
